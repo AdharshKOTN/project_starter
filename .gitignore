@@ -1,2 +1,3 @@
 project_starter
 .env
+__pycache__
